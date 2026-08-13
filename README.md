@@ -1,6 +1,6 @@
 # Hi, I'm Agrima Jain 👋
 
-🚀 AI/ML Engineer passionate about building scalable machine learning systems, computer vision applications, LLM-powered platforms, and real-time AI pipelines.
+🚀 Software Engineer passionate about building scalable  systems, computer vision applications, LLM-powered platforms, and real-time security pipelines.
 
 🎓 MS in Information Systems @ Northeastern University  
 📍 Boston, MA  
@@ -10,9 +10,9 @@
 
 ## 🔥 About Me
 
-- 🤖 3.5+ years of experience in AI/ML engineering
+- 🤖 4+ years of experience in Software engineering
 - 🧠 Building end-to-end deep learning and computer vision systems
-- ⚡ Optimizing GPU inference pipelines and scalable ML deployment
+- ⚡ Optimizing inference pipelines and scalable ML deployment
 - ☁️ Experienced with AWS, Docker, Kubernetes, and CI/CD workflows
 - 📊 Strong focus on production-grade ML systems and real-time inference
 - 🌐 Passionate about backend systems, scalable APIs, and cloud-native applications
